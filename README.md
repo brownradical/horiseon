@@ -1,12 +1,11 @@
 # Horiseon Website Accesibility
-> This web development revamp to increase user and developer accesibility.
+> This web development revamp is to increase user and developer accesibility.
 
 ## Table of contents
 * [General info](#general-info)
 * [Team members](#team-members)
 * [Technologies](#technologies)
 * [Screenshots](#screenshots)
-* [Reccomendations] (#recommendations)
 * [Setup](#setup)
 
 ## General info
@@ -24,9 +23,8 @@ Project is created with:
 
 ## Screenshots
 The following screenshots are what the website currently looks like:
-![Picture]
-
-![Picture]
+![screenshot of top section of Horiseon website](https://horiseon/Develop/assets/images/read-me-pic-1.png)
+![screenshot of bottom section of Horiseon website](https://horiseon/Develop/assets/images/read-me-pic-2.png)
 	
 ## Setup
 To run this project, install it locally using npm:
