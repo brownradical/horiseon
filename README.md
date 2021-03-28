@@ -1,5 +1,5 @@
 # Horiseon Website Accesibility Revamp
-> This web development revamp is to increase user and developer accesibility.
+> This web development revamp is to increase user and developer accesibility. I have been hired by Horiseon to review and adjust codebase to follow accesibility standards so that thier own side is optimized for search engines.
 
 ## Table of contents
 * [General info](#general-info)
