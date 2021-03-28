@@ -12,8 +12,8 @@
 Accesibility is key in making our world, especially our vitrual world, a better place. Thank you for your commitment in wanting to make your website more accesible and sustainable for growth as your business grows. In this revamp I have completed the following to increase accesibility for both the user and developer: reviewed and adjusted source code and structure; added alt text to site images; reviewed and adjusted proper heading and text sequence; etc.
 
 ## Team members 
-:technologist: "Jonathan G. Flores" <jgflores35@gmail.com>
-You can find me on [Linkedin](https://www.linkedin.com/in/brownradical "Add me on Linkedin")
+Jonathan G. Flores :technologist: 
+>You can find me on [Linkedin](https://www.linkedin.com/in/brownradical "Add me on Linkedin") or email me at <jgflores35@gmail.com>
 	
 ## Technologies 
 Project is created with :computer: :
