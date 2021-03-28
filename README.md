@@ -29,9 +29,7 @@ The following screenshots are what the website currently looks like :camera_flas
 ![screenshot of bottom section of Horiseon website](./assets/images/read-me-pic-2.png)
 	
 ## View updates
-* To view the website live, go to: https://brownradical.github.io/horiseon/
-or
-* To open Github repository files on a browser, go to: https://github.com/brownradical/horiseon.git
+To view the website live, go to: https://brownradical.github.io/horiseon/ or to open Github repository files on a browser, go to: https://github.com/brownradical/horiseon.git
 
 ## Suggestions
 The following are suggestions for the website that can increase accesibility and business growth:
