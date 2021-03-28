@@ -23,8 +23,8 @@ Project is created with:
 
 ## Screenshots
 The following screenshots are what the website currently looks like:
-![screenshot of top section of Horiseon website](https://Develop/assets/images/read-me-pic-1.png)
-![screenshot of bottom section of Horiseon website](https://Develop/assets/images/read-me-pic-2.png)
+![screenshot of top section of Horiseon website](https://github.com/brownradical/horiseon/Develop/assets/images/read-me-pic-1.png)
+![screenshot of bottom section of Horiseon website](https://github.com/brownradical/horiseon/Develop/assets/images/read-me-pic-2.png)
 	
 ## Setup
 To run this project, install it locally using npm:
