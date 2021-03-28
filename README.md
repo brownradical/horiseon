@@ -6,7 +6,7 @@
 * [Team members](#team-members)
 * [Technologies](#technologies)
 * [Screenshots](#screenshots)
-* [Setup](#setup)
+* [View updates](#view-updates)
 
 ## General info
 Accesibility is key in making our world, especially our vitrual world, a better place. Thank you for your commitment in wanting to make your website more accesible and sustainable for growth as your business grows. In this revamp I have completed the following to increase accesibility for both the user and developer: reviewed and adjusted source code and structure; added alt text to site images; reviewed and adjusted proper heading and text sequence; etc.
@@ -27,5 +27,7 @@ The following screenshots are what the website currently looks like :camera_flas
 ![screenshot of top section of Horiseon website](./assets/images/read-me-pic-1.png)
 ![screenshot of bottom section of Horiseon website](./assets/images/read-me-pic-2.png)
 	
-## Setup
-To open Github repository files on a browser, go to: https://github.com/brownradical/horiseon.git
+## View updates
+*To view the website live, go to: https://brownradical.github.io/horiseon/
+or
+*To open Github repository files on a browser, go to: https://github.com/brownradical/horiseon.git
