@@ -24,8 +24,8 @@ Project is created with :computer: :
 
 ## Screenshots 
 The following screenshots are what the website currently looks like :camera_flash: :
-![screenshot of top section of Horiseon website](./Develop/assets/images/read-me-pic-1.png)
-![screenshot of bottom section of Horiseon website](./Develop/assets/images/read-me-pic-2.png)
+![screenshot of top section of Horiseon website](./assets/images/read-me-pic-1.png)
+![screenshot of bottom section of Horiseon website](./assets/images/read-me-pic-2.png)
 	
 ## Setup
 To open Github repository files on a browser, go to: https://github.com/brownradical/horiseon.git
